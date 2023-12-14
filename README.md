@@ -1,7 +1,9 @@
 # DEAW
 <table class="default">
-<centre><h1>Colaboradores</h1></centre>
-
+<tr>
+  <th>Nombre</th>
+  <th>Colaboradores</th>
+</tr>
   <tr>
     <td>Isabel</td>
     <td>https://github.com/iyessan445</td>
